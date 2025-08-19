@@ -1,6 +1,6 @@
 # 💬 Fullstack Chat App  
 
-A real-time chat application built with **Node.js, Express, Socket.io, MongoDB, and React (Vite)**.  
+A real-time chat application built with **MERN Stack**.  
 This project allows users to register, log in, and chat in real time with persistent messages.  
 
 🌐 **Live Demo**: [Fullstack Chat App](https://fullstack-chat-app-xiip.onrender.com/)  
